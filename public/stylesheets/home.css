@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(https://images.unsplash.com/photo-1602391833977-358a52198938?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80);
+  background-size: cover;
+  background-position: center;
+  text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.5);
+}
+
+main {
+  height: 100%;
+}
+
+.btn-secondary,
+.btn-secondary:hover {
+  color: #333;
+  text-shadow: none;
+}

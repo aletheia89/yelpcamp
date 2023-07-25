@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "nodemon": "nodemon",
-    "lint": "eslint"
+    "lint": "eslint",
+    "start": "node app.js"
   },
   "author": "Denise Telder-Bisof",
   "license": "ISC",
